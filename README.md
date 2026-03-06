@@ -52,8 +52,8 @@ Handles customers, vehicles, employees, repair orders, parts inventory, invoicin
 
 ## How to Run
 1. Open MySQL Workbench or any MySQL client
-2. Run `kkailay_3_db.sql` first to create and populate the database
-3. Run `module15.sql` to create the views, trigger, and queries
+2. Run `schema_and_data.sql` first to create and populate the database
+3. Run `views_triggers_queries.sql` to create the views, trigger, and queries
 
 ## Sample Data
 
